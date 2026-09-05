@@ -37,9 +37,7 @@ Proyek ini merupakan usulan Tugas Besar untuk Program Studi Sarjana Teknologi In
 
 ---
 
-## 📈 Status Proyek
-
-Proyek ini saat ini berada dalam tahap **proposal** yang diajukan untuk memenuhi syarat Tugas Besar di Universitas Telkom Surabaya. Pengembangan dan implementasi penuh direncanakan akan selesai pada tahun **2025**.
+## 📈 Developer Info
 
 -   **Author:** Bhismo Surya Atmaja
 -   **NIM:** 1202220048
