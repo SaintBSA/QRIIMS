@@ -1,37 +1,15 @@
 # QRIIMS - QR-Based Inventory Inspection & Maintenance System
 
-**QRIIMS** adalah sebuah sistem manajemen riwayat pencatatan dan inspeksi pemeliharaan industri berbasis Android yang dirancang untuk mentransformasi proses pemeliharaan dari reaktif menjadi proaktif. Dengan integrasi QR Code dan algoritma prioritas cerdas, QRIIMS bertujuan meningkatkan efisiensi, akurasi, dan efektivitas pengambilan keputusan di lingkungan manufaktur seperti PT Multi Aneka Pangan Nusantara.
+**QRIIMS** is an Android-based industrial maintenance recording and inspection management system designed to transform the maintenance process from reactive to proactive. By integrating QR codes and intelligent priority algorithms, QRIIMS aims to enhance efficiency, accuracy, and decision-making effectiveness in manufacturing environments such as PT Multi Aneka Pangan Nusantara.
 
 ---
 
 ## Fitur Utama
 
--   ** Manajemen Aset Digital:** Tambah, lihat, edit, dan hapus data peralatan produksi secara terpusat dan digital.
--   ** Integrasi QR Code Cepat:** Lakukan identifikasi alat secara instan hanya dengan memindai QR Code unik yang terpasang pada setiap aset fisik.
--   ** Riwayat Kondisi Lengkap:** Lacak seluruh riwayat pencatatan dan pemeliharaan untuk setiap alat secara kronologis dan terstruktur.
--   ** Autentikasi Pengguna:** Sistem login yang aman untuk memastikan hanya admin dan teknisi yang berwenang yang dapat mengakses dan mengelola data
-
----
-
-## Cara Menjalankan Proyek
-
-1.  **Prasyarat:**
-    -   Android Studio (versi terbaru direkomendasikan).
-    -   JDK (Java Development Kit).
-
-2.  **Clone Repositori:**
-    ```bash
-    git clone [https://github.com/saintBSA/qriims.git](https://github.com/saintBSA/qriims.git)
-    ```
-
-3.  **Buka di Android Studio:**
-    -   Buka Android Studio.
-    -   Pilih `Open an existing Android Studio project`.
-    -   Arahkan ke direktori tempat Anda meng-clone repositori.
-
-4.  **Build Proyek:**
-    -   Biarkan Gradle melakukan sinkronisasi.
-    -   Jalankan proyek pada emulator atau perangkat Android fisik.
+-   ** Digital Asset Management:** Add, view, edit, and delete production equipment data in a centralized digital system.
+-   ** Fast QR Code Integration:** Instantly identify equipment by scanning unique QR codes attached to each physical asset.
+-   ** Comprehensive Condition History:** Track the entire record and maintenance history for every tool chronologically and structurally.
+-   ** User Authentication:** A secure login system ensuring that only authorized administrators and technicians can access and manage data.
 
 ---
 
