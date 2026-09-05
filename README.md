@@ -6,11 +6,11 @@
 
 ## Fitur Utama
 
--   ** Digital Asset Management:** Add, view, edit, and delete production equipment data in a centralized digital system.
--   ** Fast QR Code Integration:** Instantly identify equipment by scanning unique QR codes attached to each physical asset.
--   ** Comprehensive Condition History:** Track the entire record and maintenance history for every tool chronologically and structurally.
--   ** User Authentication:** A secure login system ensuring that only authorized administrators and technicians can access and manage data.
+-   **Digital Asset Management:** Add, view, edit, and delete production equipment data in a centralized digital system.
+-   **Fast QR Code Integration:** Instantly identify equipment by scanning unique QR codes attached to each physical asset.
+-   **Comprehensive Condition History:** Track the entire record and maintenance history for every tool chronologically and structurally.
+-   **User Authentication:** A secure login system ensuring that only authorized administrators and technicians can access and manage data.
 
 ---
 
-Developed By *Bhismo Surya Atmaja*
+Developed By **Bhismo Surya Atmaja**
