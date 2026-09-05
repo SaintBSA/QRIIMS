@@ -37,4 +37,4 @@ Proyek ini merupakan usulan Tugas Besar untuk Program Studi Sarjana Teknologi In
 
 ---
 
--   **Developed By** Bhismo Surya Atmaja
+Developed By *Bhismo Surya Atmaja*
