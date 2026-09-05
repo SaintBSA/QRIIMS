@@ -37,7 +37,4 @@ Proyek ini merupakan usulan Tugas Besar untuk Program Studi Sarjana Teknologi In
 
 ---
 
-## 📈 Developer Info
-
--   **Author:** Bhismo Surya Atmaja
--   **NIM:** 1202220048
+-   **Developed By** Bhismo Surya Atmaja
