@@ -6,16 +6,16 @@ Proyek ini merupakan usulan Tugas Besar untuk Program Studi Sarjana Teknologi In
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
--   **📱 Manajemen Aset Digital:** Tambah, lihat, edit, dan hapus data peralatan produksi secara terpusat dan digital.
--   **🔗 Integrasi QR Code Cepat:** Lakukan identifikasi alat secara instan hanya dengan memindai QR Code unik yang terpasang pada setiap aset fisik.
--   **📋 Riwayat Kondisi Lengkap:** Lacak seluruh riwayat pencatatan dan pemeliharaan untuk setiap alat secara kronologis dan terstruktur.
--   **🔐 Autentikasi Pengguna:** Sistem login yang aman untuk memastikan hanya admin dan teknisi yang berwenang yang dapat mengakses dan mengelola data
+-   ** Manajemen Aset Digital:** Tambah, lihat, edit, dan hapus data peralatan produksi secara terpusat dan digital.
+-   ** Integrasi QR Code Cepat:** Lakukan identifikasi alat secara instan hanya dengan memindai QR Code unik yang terpasang pada setiap aset fisik.
+-   ** Riwayat Kondisi Lengkap:** Lacak seluruh riwayat pencatatan dan pemeliharaan untuk setiap alat secara kronologis dan terstruktur.
+-   ** Autentikasi Pengguna:** Sistem login yang aman untuk memastikan hanya admin dan teknisi yang berwenang yang dapat mengakses dan mengelola data
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 1.  **Prasyarat:**
     -   Android Studio (versi terbaru direkomendasikan).
